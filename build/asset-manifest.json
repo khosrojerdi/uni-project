@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/uni-project/static/css/main.e6c13ad2.css",
+    "main.js": "/uni-project/static/js/main.94c4a212.js",
+    "static/js/787.7312d947.chunk.js": "/uni-project/static/js/787.7312d947.chunk.js",
+    "static/media/back.avif": "/uni-project/static/media/back.a0e18bd0ca2e97d687b3.avif",
+    "index.html": "/uni-project/index.html",
+    "main.e6c13ad2.css.map": "/uni-project/static/css/main.e6c13ad2.css.map",
+    "main.94c4a212.js.map": "/uni-project/static/js/main.94c4a212.js.map",
+    "787.7312d947.chunk.js.map": "/uni-project/static/js/787.7312d947.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.94c4a212.js"
+  ]
+}
